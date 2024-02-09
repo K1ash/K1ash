@@ -1,4 +1,4 @@
-### Hi i'm Aleksandr Kalashnikov👾 КОСТЯ ЛОХ ЕБУЧИЙ
+### Hi i'm Aleksandr Kalashnikov👾 
 
 ---
 
