@@ -2,11 +2,9 @@
 
 ---
 
-It's my Profile
+I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+
 
 
 ---
