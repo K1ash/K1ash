@@ -1,4 +1,4 @@
-### Hi i'm Aleksandr Kalashnikov⚡️
+### Hi i'm Aleksandr Kalashnikov🇺🇦🇺🇸
 
 <hr>
 
