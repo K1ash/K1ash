@@ -31,7 +31,7 @@ I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCE
 </div>
 
 ---
-### 🛠 Инструменты:
+### 🛠 Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
