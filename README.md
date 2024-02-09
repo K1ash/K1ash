@@ -1,5 +1,5 @@
-### Hi there 👋
+### Hi i'm Aleksandr Kalashnikov⚡️
 
 <hr>
 
-My Profile
+It's my Profile
