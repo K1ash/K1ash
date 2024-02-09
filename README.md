@@ -9,17 +9,6 @@ I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ---
 
-### 🤝 Social blog:
-
-  <div id="badges">
-    <a href="https://t.me/kalashnikov_official" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-  </div>
-
----
-
-
 ### 💻 Technic:
 
 <div>
@@ -38,5 +27,14 @@ I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCE
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
 </div>
+
+---
+### 🤝 Social blog:
+
+  <div id="badges">
+    <a href="https://t.me/kalashnikov_official" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+  </div>
 
 ---
