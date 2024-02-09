@@ -1,4 +1,4 @@
-### Hi i'm Aleksandr Kalashnikov https://icons8.ru/icon/fIgZUHgwc76e/сша
+### Hi i'm Aleksandr Kalashnikov👾
 
 <hr>
 
