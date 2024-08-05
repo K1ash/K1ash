@@ -27,7 +27,7 @@ I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCE
 </div>
 
 ---
-### 🤝 Social blog:
+### 🤝 Сontacts:
 
   <div id="badges">
     <a href="https://t.me/K1ash_prog" target="_blank">
